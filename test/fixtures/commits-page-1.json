@@ -1,0 +1,142 @@
+[
+  {
+    "sha": "e3b380b89c918a1ec369e2796537c224aaae7037",
+    "commit": {
+      "author": {
+        "name": "Benjamin Coe",
+        "email": "ben@npmjs.com",
+        "date": "2016-10-12T06:10:29Z"
+      },
+      "committer": {
+        "name": "Benjamin Coe",
+        "email": "ben@npmjs.com",
+        "date": "2016-10-12T06:10:29Z"
+      },
+      "message": "feat: testing another release",
+      "tree": {
+        "sha": "02c64a770684cc7d873821bf9dabe46d5c7ade9a",
+        "url": "https://api.github.com/repos/changebot-me/debug-standard-version/git/trees/02c64a770684cc7d873821bf9dabe46d5c7ade9a"
+      },
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/git/commits/e3b380b89c918a1ec369e2796537c224aaae7037",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/e3b380b89c918a1ec369e2796537c224aaae7037",
+    "html_url": "https://github.com/changebot-me/debug-standard-version/commit/e3b380b89c918a1ec369e2796537c224aaae7037",
+    "comments_url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/e3b380b89c918a1ec369e2796537c224aaae7037/comments",
+    "author": {
+      "login": "bcoe",
+      "id": 194609,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194609?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bcoe",
+      "html_url": "https://github.com/bcoe",
+      "followers_url": "https://api.github.com/users/bcoe/followers",
+      "following_url": "https://api.github.com/users/bcoe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bcoe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bcoe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bcoe/subscriptions",
+      "organizations_url": "https://api.github.com/users/bcoe/orgs",
+      "repos_url": "https://api.github.com/users/bcoe/repos",
+      "events_url": "https://api.github.com/users/bcoe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bcoe/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bcoe",
+      "id": 194609,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194609?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bcoe",
+      "html_url": "https://github.com/bcoe",
+      "followers_url": "https://api.github.com/users/bcoe/followers",
+      "following_url": "https://api.github.com/users/bcoe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bcoe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bcoe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bcoe/subscriptions",
+      "organizations_url": "https://api.github.com/users/bcoe/orgs",
+      "repos_url": "https://api.github.com/users/bcoe/repos",
+      "events_url": "https://api.github.com/users/bcoe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bcoe/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7a8f0e21934708b92c16333a592ebd396dc9a87a",
+        "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/7a8f0e21934708b92c16333a592ebd396dc9a87a",
+        "html_url": "https://github.com/changebot-me/debug-standard-version/commit/7a8f0e21934708b92c16333a592ebd396dc9a87a"
+      }
+    ]
+  },
+  {
+    "sha": "7a8f0e21934708b92c16333a592ebd396dc9a87a",
+    "commit": {
+      "author": {
+        "name": "Benjamin Coe",
+        "email": "ben@npmjs.com",
+        "date": "2016-10-09T02:26:06Z"
+      },
+      "committer": {
+        "name": "Benjamin Coe",
+        "email": "ben@npmjs.com",
+        "date": "2016-10-09T02:26:06Z"
+      },
+      "message": "chore: testing signing",
+      "tree": {
+        "sha": "8313b6651257eb05f95a3af6fb3d32fde03ba699",
+        "url": "https://api.github.com/repos/changebot-me/debug-standard-version/git/trees/8313b6651257eb05f95a3af6fb3d32fde03ba699"
+      },
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/git/commits/7a8f0e21934708b92c16333a592ebd396dc9a87a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/7a8f0e21934708b92c16333a592ebd396dc9a87a",
+    "html_url": "https://github.com/changebot-me/debug-standard-version/commit/7a8f0e21934708b92c16333a592ebd396dc9a87a",
+    "comments_url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/7a8f0e21934708b92c16333a592ebd396dc9a87a/comments",
+    "author": {
+      "login": "bcoe",
+      "id": 194609,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194609?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bcoe",
+      "html_url": "https://github.com/bcoe",
+      "followers_url": "https://api.github.com/users/bcoe/followers",
+      "following_url": "https://api.github.com/users/bcoe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bcoe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bcoe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bcoe/subscriptions",
+      "organizations_url": "https://api.github.com/users/bcoe/orgs",
+      "repos_url": "https://api.github.com/users/bcoe/repos",
+      "events_url": "https://api.github.com/users/bcoe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bcoe/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bcoe",
+      "id": 194609,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194609?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bcoe",
+      "html_url": "https://github.com/bcoe",
+      "followers_url": "https://api.github.com/users/bcoe/followers",
+      "following_url": "https://api.github.com/users/bcoe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bcoe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bcoe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bcoe/subscriptions",
+      "organizations_url": "https://api.github.com/users/bcoe/orgs",
+      "repos_url": "https://api.github.com/users/bcoe/repos",
+      "events_url": "https://api.github.com/users/bcoe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bcoe/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "29a6bb615230ac00056b6a4556d23de7dfb07bd5",
+        "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/29a6bb615230ac00056b6a4556d23de7dfb07bd5",
+        "html_url": "https://github.com/changebot-me/debug-standard-version/commit/29a6bb615230ac00056b6a4556d23de7dfb07bd5"
+      }
+    ]
+  }
+]

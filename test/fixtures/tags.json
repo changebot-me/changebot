@@ -1,0 +1,56 @@
+[
+  {
+    "name": "v2.1.0",
+    "zipball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/zipball/v2.1.0",
+    "tarball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/tarball/v2.1.0",
+    "commit": {
+      "sha": "29a6bb615230ac00056b6a4556d23de7dfb07bd5",
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/29a6bb615230ac00056b6a4556d23de7dfb07bd5"
+    }
+  },
+  {
+    "name": "v2.0.1",
+    "zipball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/zipball/v2.0.1",
+    "tarball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/tarball/v2.0.1",
+    "commit": {
+      "sha": "68f33539b061e8c93961145238889f6e5b1a4feb",
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/8b060b4a8cabf56004e1417891593a1fa1c73c1a"
+    }
+  },
+  {
+    "name": "v2.0.0",
+    "zipball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/zipball/v2.0.0",
+    "tarball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/tarball/v2.0.0",
+    "commit": {
+      "sha": "f1af232bc36228fc535800701743523bb66276bc",
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/f1af232bc36228fc535800701743523bb66276bc"
+    }
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/zipball/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/tarball/v1.1.0",
+    "commit": {
+      "sha": "20f3bcdb6aa2380a8e12d4900f1d68f40825d38a",
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/20f3bcdb6aa2380a8e12d4900f1d68f40825d38a"
+    }
+  },
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/zipball/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/tarball/v1.0.0",
+    "commit": {
+      "sha": "41cef6b844e9b84fa4b9efde8b82f80fe012193b",
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/41cef6b844e9b84fa4b9efde8b82f80fe012193b"
+    }
+  },
+  {
+    "name": "2.4.0",
+    "zipball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/zipball/2.4.0",
+    "tarball_url": "https://api.github.com/repos/changebot-me/debug-standard-version/tarball/2.4.0",
+    "commit": {
+      "sha": "7a8f0e21934708b92c16333a592ebd396dc9a87a",
+      "url": "https://api.github.com/repos/changebot-me/debug-standard-version/commits/7a8f0e21934708b92c16333a592ebd396dc9a87a"
+    }
+  }
+]
